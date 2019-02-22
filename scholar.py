@@ -967,6 +967,7 @@ class ScholarQuerier(object):
 
         self.settings = settings
 
+        
         # This is a bit of work. We need to actually retrieve the
         # contents of the Settings pane HTML in order to extract
         # hidden fields before we can compose the query for updating
